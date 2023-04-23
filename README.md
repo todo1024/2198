@@ -1,2 +1,260 @@
 # 2198
 华为HCIP datacom二期
+### 微:NoBug1024 
+
+
+课程介绍：
+
+HCIP-Datacom的必选考试（Core Technology）内容包括在数通产业所有场景应用中都必须掌握的通用知识，它是学习各个子方向的基础，每个子方向代表一种网络场景，学员可根据自己的兴趣方向和职业发展规划选取一门或多门子方向学习。
+
+获取HCIP-Datacom证书需在VUE考试中心预约HCIP-Datacom认证必选考试和任一门自选考试，HCIP-Datacom认证考试都是笔试考试，通过考试后就可以获得HCIP-Datacom相应的证书。
+
+〖课程目录〗:
+
+- ├──1.认识网络设备  
+- |   ├──HCIA回顾(1).mkv  328.06M
+- |   ├──认识网络设备(2).mkv  226.49M
+- |   └──认识网络设备笔记.txt  0.03kb
+- ├──10.DHCP  
+- |   ├──DHCP snooping 05-27(1).mkv  218.70M
+- |   ├──DHCP 笔记.txt  0.05kb
+- |   ├──DHCP原理与配置-05-26（1）.mkv  268.01M
+- |   └──DHCP原理与配置-05-26（2）.mkv  280.10M
+- ├──11.二层交换安全  
+- |   ├──二层安全 笔记.txt  0.04kb
+- |   └──二层交换安全 05-27.mkv  424.65M
+- ├──12.Ipv6  
+- |   ├──IPv6 ICMP 06-06(2).mkv  399.83M
+- |   ├──IPv6 笔记.txt  0.04kb
+- |   ├──IPv6 地址区域及过度技术 05-31(1).mkv  249.92M
+- |   ├──IPv6 静态路由及OSPFv3 6-02(1).mkv  369.74M
+- |   ├──IPv6报文 05-31 (2).mkv  305.71M
+- |   ├──IPv6地址类型 5-30(2).mkv  278.76M
+- |   ├──IPv6基本概述 05-30(1).mkv  223.55M
+- |   ├──IPv6路由 06-06(1).mkv  308.60M
+- |   └──OSPFv3 6-02(2).mkv  318.91M
+- ├──13.组播  
+- |   ├──PIM-DM 06-07(2).mkv  259.77M
+- |   ├──PIM-SM 06-09(1).mkv  307.05M
+- |   ├──PIM-SM 06-09(2).mkv  347.22M
+- |   ├──组播 笔记.txt  0.05kb
+- |   └──组播基本概述 06-07(1).mkv  296.36M
+- ├──14.IGMP  
+- |   ├──IGMP 笔记.txt  0.05kb
+- |   ├──IGMPv1 06-10(1).mp4  137.15M
+- |   └──IGMPV2 06-10(2).mp4  174.22M
+- ├──15.MPLS  
+- |   ├──MPLS LDP 标签分发及工作过程 06-16(1).mkv  259.15M
+- |   ├──MPLS LDP基本概述(2).mkv  433.50M
+- |   ├──MPLS VPN CE接入PE 06-17(2).mkv  352.85M
+- |   ├──MPLS VPN domain-id及MCE 06-20(1).mkv  256.06M
+- |   ├──MPLS VPN hub&spoke 06-20（2）.mkv  280.74M
+- |   ├──MPLS VPN sham-link 06-21.mkv  262.28M
+- |   ├──MPLS VPN 路由及转发 06-17(1).mkv  298.60M
+- |   ├──MPLS VPN概述及路由交互 06-16(2).mkv  349.73M
+- |   ├──MPLS 笔记.txt  0.05kb
+- |   ├──MPLS标签及FEC(2) 06-13.mkv  335.90M
+- |   ├──MPLS概述(1) 06-13 .mkv  264.30M
+- |   ├──MPLS转发(1) 06-14.mkv  221.83M
+- |   ├──跨域MPLS VPN A及B方案 06-23(1).mkv  248.92M
+- |   └──跨域MPLS VPN 基本讲解 06-23(2).mkv  345.30M
+- ├──16.综合实验  
+- |   ├──综合实验topo  
+- |   |   ├──05EB5E04-0E08-4ed0-90E9-CCB30C6FAED2  
+- |   |   ├──101E8371-F2F9-40cb-A2AF-A640FB4B2BE8  
+- |   |   ├──1B66B6C3-DA0A-4694-AB1F-D84E0E5B5BB3  
+- |   |   ├──204B6D4A-0A61-4b7d-8CA9-23E118923D58  
+- |   |   ├──27B42F94-8165-4b80-A295-7A2DC3140773  
+- |   |   ├──2AE61F56-290E-4067-B62F-EA7BF0920216  
+- |   |   ├──335B7C19-2C45-463c-8E2C-AC7389568ADE  
+- |   |   ├──4B555C7C-BBB7-490c-849F-D147732E1D35  
+- |   |   ├──6EAAAD3C-A2F0-443f-BF8C-B45AC024DE4F  
+- |   |   ├──7CD0897F-C4E9-4bae-B30E-4E23513BB301  
+- |   |   ├──7F5AB011-2363-48f0-AAE5-58A1CAFDCE46  
+- |   |   ├──B2CA30A2-9076-4ed6-833E-65B213CFFB40  
+- |   |   ├──B5E6F390-D64C-40a1-9EFE-1EDB19F05204  
+- |   |   ├──C0098799-937A-4b18-9F31-018E11BAA075  
+- |   |   ├──C35F3085-2A7C-475c-8B9B-327DF19AF985  
+- |   |   ├──D5AA6C81-42C8-48b2-B862-9EB590DEE4EE  
+- |   |   ├──E37FC3FE-9030-4120-B98B-C7480A2AF081  
+- |   |   ├──F3BA0AF4-4188-4d83-A219-6C09CF088EA6  
+- |   |   ├──FD51DE99-D1BC-469f-8178-6AE9B2C2E381  
+- |   |   └──综合实验(2).topo  35.13kb
+- |   ├──综合实验笔记.txt  0.12kb
+- |   ├──综合实验部署(3).mkv  308.41M
+- |   ├──综合实验部署(4).mkv  482.89M
+- |   ├──综合实验部署(5).mkv  384.57M
+- |   ├──综合实验部署(6).mkv  412.08M
+- |   ├──综合实验排障(1).mkv  313.15M
+- |   └──综合实验排障(2).mkv  374.60M
+- ├──2.OSPF  
+- |   ├──OSPF实验拓扑  
+- |   |   └──OSPF-BFD.topo  23.36kb
+- |   ├──DR和BDR的作用4).mkv  270.75M
+- |   ├──IP路由基础.mkv  236.05M
+- |   ├──LSA新旧及路由撤销(12).mkv  256.65M
+- |   ├──NSSA区域及完全NSSA(11).mkv  330.11M
+- |   ├──OSPF 其他特性(17).mkv  369.04M
+- |   ├──OSPF笔记.txt  0.05kb
+- |   ├──OSPF汇聚(13.5).mkv  317.86M
+- |   ├──OSPF简介(2).mkv  289.02M
+- |   ├──OSPF路由计算(1).mkv  305.73M
+- |   ├──stub和完全stub区域(10).mkv  158.70M
+- |   ├──报文及邻居关系(3).mkv  250.06M
+- |   ├──邻接关系的建立(5).mkv  304.56M
+- |   ├──路由过滤(15).mkv  110.60M
+- |   ├──路由过滤和聚合(13).mkv  98.26M
+- |   ├──区域间路由计算(7).mkv  272.85M
+- |   ├──区域内路由计算(6).mkv  305.22M
+- |   ├──外部路由计算(8).mkv  290.03M
+- |   ├──外部路由计算(9).mkv  55.63M
+- |   ├──虚链路(16).mkv  143.92M
+- |   └──影响OSPF邻居关系建立(14).mkv  224.96M
+- ├──3.中间系统-IS  
+- |   ├──ISIS 综合拓扑  
+- |   |   ├──2CAE36A4-7D20-42b5-8ED0-F3FD44054D1F  
+- |   |   ├──49F63100-1A4C-48ce-BBBD-32D2C121932E  
+- |   |   ├──61F119D5-2FAD-4fc3-88EE-194F356DE33D  
+- |   |   ├──7711CA69-7B16-412f-9F4B-5B545B028AFE  
+- |   |   ├──D557678B-BCE0-4b98-A8E3-0B9D26FD2007  
+- |   |   ├──E1DC95C3-6273-4886-A9A6-902556D325F7  
+- |   |   └──0421 ISIS 综合拓扑.topo  7.27kb
+- |   ├──优秀作业  
+- |   |   ├──2022-4-19 ISIS实验.docx  557.59kb
+- |   |   ├──4月19日isis实验邓鑫月.docx  1011.83kb
+- |   |   └──Hcip 04.18 作业.docx  121.10kb
+- |   ├──1S-NET地址及区域(1).mkv  344.87M
+- |   ├──1S-报头及hello(3).mkv  184.34M
+- |   ├──1S-开销及网路类型(2).mkv  163.75M
+- |   ├──1S-开销类型和LSP新旧(7).mkv  246.47M
+- |   ├──1S-邻接关系及DIS(4).mkv  312.56M
+- |   ├──1S-路由撤销及渗透(8).mkv  341.97M
+- |   ├──1S-路由过滤和汇聚(9).mkv  314.87M
+- |   ├──1S-三张表(5).mkv  263.94M
+- |   ├──1S-中间系统 影响邻居建立和特性(10).mkv  291.17M
+- |   ├──IS-报文及同步LSP(6).mkv  301.24M
+- |   └──中间系统 笔记.txt  0.05kb
+- ├──4.路由策略  
+- |   ├──策略路由(4).mkv  226.43M
+- |   ├──访问控制和前缀列表(1).mkv  277.13M
+- |   ├──路由策略 笔记.txt  0.10kb
+- |   ├──路由策略(2).mkv  307.25M
+- |   ├──路由策略(3).mkv  365.85M
+- |   ├──路由策略(5).mkv  18.68M
+- |   ├──双点双向(6).mkv  221.05M
+- |   └──双点双向(7).mkv  270.88M
+- ├──5.BGP  
+- |   ├──BGP 基本拓扑  
+- |   |   ├──11C80DF9-3345-43b0-8501-1829CE782B77  
+- |   |   ├──367B56B4-ED55-48c2-BAD6-B523047722AD  
+- |   |   ├──76F39C56-CA9F-4af9-A287-381E424C12F8  
+- |   |   ├──C8B620AF-F2DC-4613-ABE1-BA843A30F3BB  
+- |   |   ├──EB251666-2F8D-4404-B610-57A2FEBE26E8  
+- |   |   └──BGP 拓扑.topo  9.35kb
+- |   ├──BGP 综合拓扑  
+- |   |   ├──26A69E71-B502-4bce-84BF-F7DA006F84CF  
+- |   |   ├──35E821AB-9350-41b0-AA52-CC29DD040B9F  
+- |   |   ├──3D2B6099-31E1-4566-B629-72E93AA24033  
+- |   |   ├──4AB2F93B-76DF-43e8-A51F-40D570D7951B  
+- |   |   ├──4EEF4D0C-FE20-4820-802F-1B9AF5D00AB9  
+- |   |   ├──5A33CCFB-0B83-4fe8-9C87-C0C605258BB8  
+- |   |   ├──BE03F027-5BBD-477f-8A5F-DAC3B0CD65B5  
+- |   |   └──BGP 综合拓扑.topo  14.16kb
+- |   ├──BGP RID及报文(3).mkv  271.48M
+- |   ├──BGP RR路由反射器(10).mkv  306.49M
+- |   ├──BGP 报文交互过程(6).mkv  292.83M
+- |   ├──BGP 笔记.txt  0.06kb
+- |   ├──BGP 联盟及聚合(11).mkv  259.38M
+- |   ├──BGP 路由聚合及过滤(12).mkv  298.68M
+- |   ├──BGP 路由优选(8).mkv  287.31M
+- |   ├──BGP 路由优选(9).mkv  273.71M
+- |   ├──BGP 团体属性及特性(13).mkv  367.13M
+- |   ├──BGP 状态机(5).mkv  66.96M
+- |   ├──BGP报文(4).mkv  139.11M
+- |   ├──BGP对等体建立(2).mkv  278.30M
+- |   ├──BGP基本概念(1).mkv  292.47M
+- |   └──BGP路由属性(7).mkv  273.05M
+- ├──6.高级VLAN  
+- |   ├──高级VLAN拓扑  
+- |   |   ├──mux vlan  
+- |   |   ├──QinQ  
+- |   |   └──vlan聚合  
+- |   ├──muxvlan及QinQ(2).mkv  290.20M
+- |   ├──VLAN基本及聚合(1).mkv  281.26M
+- |   └──交换笔记.txt  0.05kb
+- ├──7.STP  
+- |   ├──DP 选举  
+- |   |   ├──02071B4F-48C8-4840-8CA6-6558B2A6875A  
+- |   |   ├──6238076F-8974-498e-8F5C-DC86D84C2B36  
+- |   |   ├──7AA37138-0F82-4891-BC9E-CCD37EE6BB35  
+- |   |   ├──AA1026A4-D769-4227-A718-5A4E2E6729EB  
+- |   |   ├──B5E10987-E42E-4dff-AE8C-04AEA8356EAA  
+- |   |   ├──D51F856B-F2C7-45e2-8619-9D3902CA623A  
+- |   |   ├──DE59B52F-0F76-4a3f-BE5A-7C339A16F42C  
+- |   |   ├──F12089FC-B62B-4743-AF1F-F18D7F4A197A  
+- |   |   ├──F7A5D299-C3F5-4f27-899E-FA727CC9DBBB  
+- |   |   └──DP 选举.topo  8.51kb
+- |   ├──RP 选举  
+- |   |   └──RP 选举.topo  14.61kb
+- |   ├──MSTP(1).mkv  197.99M
+- |   ├──MSTP(2).mkv  302.80M
+- |   ├──RSTP(4).mkv  333.99M
+- |   ├──STP 笔记.txt  0.04kb
+- |   ├──STP概述(1).mkv  295.36M
+- |   ├──STP概述(2).mkv  213.43M
+- |   └──STP及RSTP(3).mkv  292.54M
+- ├──8.VRRP  
+- |   ├──VRRP(1).mkv  1.24G
+- |   ├──VRRP(2).mkv  1.50G
+- |   └──VRRP笔记.txt  0.04kb
+- ├──9.BFD  
+- |   ├──BFD 笔记.txt  0.04kb
+- |   ├──BFD 原理与配置(1).mkv  272.61M
+- |   └──BFD 原理与配置（2）.mkv  288.57M
+- ├──课前资料  
+- |   ├──华为Datacom 课件  
+- |   |   ├──datacom 课件  
+- |   |   ├──HCIE-Datacom V1.0 培训材料  
+- |   |   ├──HCIP-Datacom-Advanced Routing Switching Technology V1.0 培训材料  
+- |   |   ├──HCIP-Datacom-Core Technology V1.0培训材料  
+- |   |   ├──HCIP-Datacom-SD-WAN Planning and Deployment V1.0 培训材料  
+- |   |   ├──HCIA-Datacom V1.0 培训材料.rar  35.69M
+- |   |   ├──HCIE-Datacom V1.0 版本说明.docx  164.43kb
+- |   |   ├──HCIE-Datacom V1.0 课程表.xlsx  35.54kb
+- |   |   ├──HCIE-Datacom V1.0 培训材料.rar  101.59M
+- |   |   ├──HCIE-Datacom V1.0 设备清单.xlsx  30.96kb
+- |   |   ├──HCIE-Datacom V1.0 实验环境搭建指南.docx  638.09kb
+- |   |   ├──HCIE-Datacom V1.0 实验指导手册.docx  20.13M
+- |   |   ├──HCIP-Datacom-Campus Network Planning and Deployment V1.0 Training Materials.zip  176.25M
+- |   |   ├──HCIP-Datacom-SD-WAN Planning and Deployment V1.0 版本说明.docx  266.08kb
+- |   |   ├──HCIP-Datacom-SD-WAN Planning and Deployment V1.0 课程表.xlsx  39.89kb
+- |   |   ├──HCIP-Datacom-SD-WAN Planning and Deployment V1.0 培训材料.rar  45.10M
+- |   |   ├──HCIP-Datacom-SD-WAN Planning and Deployment V1.0 设备清单.xlsx  25.06kb
+- |   |   ├──HCIP-Datacom-SD-WAN Planning and Deployment V1.0 实验环境搭建指南.docx  445.47kb
+- |   |   └──HCIP-Datacom-SD-WAN Planning and Deployment V1.0 实验手册.docx  6.43M
+- |   ├──华为产品文档  
+- |   |   ├──OLT  
+- |   |   ├──安全  
+- |   |   ├──防火墙  
+- |   |   ├──交换机  
+- |   |   ├──路由器  
+- |   |   ├──无线  
+- |   |   ├──AR100, AR120, AR160, AR1200, AR2200, AR3200, AR3600 V300R003 产品文档.chm  184.90M
+- |   |   ├──USG6000V.zip  344.93M
+- |   |   ├──网络协议报文格式大全 v1.0.chm  21.17M
+- |   |   └──无线.rar  37.45M
+- |   └──华为模拟器  
+- |   |   ├──ensp软件包  
+- |   |   ├──eNSP V100R003C00SPC100 Setup.zip  542.52M
+- |   |   ├──eNSP V100R003C00SPC200T Setup.exe  667.12M
+- |   |   ├──secure_49437.7z  64.89M
+- |   |   ├──USG6000V.zip  344.93M
+- |   |   ├──VirtualBox-5.2.44-139111-Win (1).exe  105.42M
+- |   |   ├──Wireshark-win64-3.2.3.exe  57.31M
+- |   |   ├──华为 eNSP启动设备失败 错误代码40.docx  195.59kb
+- |   |   └──乾颐堂学习手册.docx  869.65kb
+- └──优秀作业  
+- |   ├──2022-4-8 OSPF实验.pdf  923.97kb
+- |   ├──OSPF 03 作业 2022.4.7.docx  79.21kb
+- |   └──ospf 报文交互过程简单描述项杰-2022.04.07.docx  3.92M
+- 
